@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyliam</h1>
-<h3 align="center">A full-stack developer from Vietnam</h3>
+<h3 align="center">A web developer from Vietnam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyliam&label=Profile%20views&color=0e75b6&style=flat" alt="kyliam" /> </p>
 <image src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyliam" alt="kyliam" /></a> </p>
