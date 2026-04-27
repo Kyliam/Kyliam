@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left" >
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
@@ -169,7 +169,7 @@
       height="40"
     />
   </a>
-</p>
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyliam&show_icons=true&locale=en&layout=compact" alt="kyliam" /></p>
